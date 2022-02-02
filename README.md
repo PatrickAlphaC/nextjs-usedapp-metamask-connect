@@ -13,7 +13,7 @@ Video Coming soon...
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
     - [Important localhost note](#important-localhost-note)
-- [Resources](#resources)
+- [Full Examples](#full-examples)
 - [Thank you!](#thank-you)
 
 Video coming soon...
@@ -84,7 +84,7 @@ First, you deploy a multicall contract, and then and you'll send a transaction t
 
 If you use metamask with a local network, everytime you shut down your node, you'll need to reset your account. Settings -> Advanced -> Reset account. Don't do this with a metamask you have real funds in.
 
-# Resources
+# Full Examples
 
 - [defi-stake-yield-brownie](https://github.com/PatrickAlphaC/defi-stake-yield-brownie)
 
